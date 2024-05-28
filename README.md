@@ -25,13 +25,13 @@ Delve into the iconic world of Optimus Prime with this Tribute Page project, hon
 Clone the project
 
 ```bash
-  git clone https://github.com/Ranjith-M7/CODSOFT.git
+  git clone https://github.com/Ranjith-M7/tribute-page.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Tribute-Page
+  cd tribute-page
 ```
 
 ## Author
